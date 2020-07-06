@@ -1,0 +1,16 @@
+Package: GRC
+Type: Package
+Title: Gene regulation and correlation between target and pathway
+Version: 0.1.0
+Author: one sand
+Maintainer: Qingrong Sun <sunqingrong@stu.cpu.edu.cn>
+Description: sadjaskd
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.3)
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+RoxygenNote: 7.0.2.9000
